@@ -1,6 +1,6 @@
 <style>
 	.de_tab.tab_steps .de_nav li {
-	      margin: 0 15px 0px 30px;  
+	     margin: 0px 0px 0px 7px; 
 	}
 </style>
 <!-- content begin -->
@@ -91,10 +91,10 @@
 							<li class="wow fadeIn" data-wow-delay="1.2s"><span>Build &amp; Install</span>
 								<div class="v-border"></div>
 							</li>
-							<li class="wow fadeIn" data-wow-delay="1.2s"><span>EMI</span>
+							<li class="wow fadeIn" data-wow-delay="1.6s"><span>EMI</span>
 								<div class="v-border"></div>
 							</li>
-							<li class="wow fadeIn" data-wow-delay="1.2s"><span>Choose Design</span>
+							<li class="wow fadeIn" data-wow-delay="1.8s"><span>Choose Design</span>
 								<div class="v-border"></div>
 							</li>
 						</ul>
@@ -122,20 +122,20 @@
 											<a href="<?php echo base_url(); ?>welcome/rooms_images">
 												<p style="color:white;">Living Room</p>
 												<div>
-											    	<img src="<?php echo base_url(); ?>assets/images/services/living-room-interior-design-blue-shade.jpg" width="100%">
+											    	<img src="<?php echo base_url(); ?>assets/images/Residential/GREEN GRACE 001.jpg" width="100%">
 												</div>
 											</a>
 										</div>
 										<div class="col-sm-4 col-md-4 col-xs-12">
 											<a href="<?php echo base_url(); ?>welcome/rooms_images">
 												<p style="color:white;">Bed Room</p>
-												<img src="<?php echo base_url(); ?>assets/images/misc/pic_3.jpg" width="100%">
+												<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4484 - Copy.jpg" width="100%">
 											</a>
 										</div>
 										<div class="col-sm-4 col-md-4 col-xs-12">
 											<a href="<?php echo base_url(); ?>welcome/rooms_images">
 												<p style="color:white;">Dinning Room</p>
-												<img src="<?php echo base_url(); ?>assets/images/misc/pic_3.jpg" width="100%">
+												<img src="<?php echo base_url(); ?>assets/images/Residential/GREEN GRACE 002.jpg" width="100%">
 											</a>
 										</div>
 									</div>

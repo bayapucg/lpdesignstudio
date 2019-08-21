@@ -101,9 +101,10 @@ function __construct() {
     }
     
     public function rooms_images(){
+		 $data['contact_information']=$this->user_model->contact_information();
         $this->load->view('header');
 		$this->load->view('rooms-images');
-	    $this->load->view('footer');
+	    $this->load->view('footer',$data);
     }
    
     public function test(){

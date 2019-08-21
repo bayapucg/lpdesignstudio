@@ -40,7 +40,7 @@
 
   <header class="main-header">
     <!-- Logo -->
-    <a href="index2.html" class="logo">
+    <a href="<?php echo base_url();?>welcome/dashboard" class="logo">
       <!-- mini logo for sidebar mini 50x50 pixels -->
       <span class="logo-mini"><b>A</b>LT</span>
       <!-- logo for regular state and mobile devices -->
@@ -82,7 +82,7 @@
 		<li><a href="<?php echo base_url();  ?>welcome/aboutus"><i class="fa fa-dashboard"></i> <span>About us</span></a></li>
 		<li><a href="<?php echo base_url();  ?>welcome/slider"><i class="fa fa-dashboard"></i> <span>Slider</span></a></li>
 		<li><a href="<?php echo base_url();  ?>welcome/allcontacts"><i class="fa fa-dashboard"></i> <span>Contacts Query</span></a></li>
-			<li><a href="<?php echo base_url();  ?>welcome/contactinfo"><i class="fa fa-dashboard"></i> <span>Contact Information</span></a></li>
+		<li><a href="<?php echo base_url();  ?>welcome/contactinfo"><i class="fa fa-dashboard"></i> <span>Contact Information</span></a></li>
 		<li><a href="<?php echo base_url();  ?>welcome/logout"><i class="fa fa-sign-out"></i> <span>Logout</span></a></li>
       </ul>
      
