@@ -182,7 +182,7 @@
                                     </span>
                                 </span>-->
 					</a>
-					<img src="<?php echo base_url(); ?>assets/images/Residential/GREEN GRACE 001.jpg" alt="" />
+					<img src="<?php echo base_url(); ?>assets/images/Residential/GREEN GRACE 001p.jpg" alt="" />
 				</div>
 			</div>
 			<!-- close gallery item -->
@@ -210,7 +210,7 @@
                                     </span>
                                 </span>-->
 					</a>
-					<img src="<?php echo base_url(); ?>assets/images/Residential/GREEN GRACE 002.jpg" alt="" />
+					<img src="<?php echo base_url(); ?>assets/images/Residential/GREEN GRACE 002p.jpg" alt="" />
 				</div>
 			</div>
 			<!-- close gallery item -->
@@ -224,7 +224,7 @@
                                     </span>
                                 </span>-->
 					</a>
-					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_3934.jpg" alt="" />
+					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_3934p.jpg" alt="" />
 				</div>
 			</div>
 			<!-- close gallery item -->
@@ -252,7 +252,7 @@
                                     </span>
                                 </span>-->
 					</a>
-					<img src="<?php echo base_url(); ?>assets/images/GREEN GRACE 001.jpg" alt="" />
+					<img src="<?php echo base_url(); ?>assets/images/GREEN GRACE 001p.jpg" alt="" />
 				</div>
 			</div>
 			<!-- close gallery item -->
@@ -280,7 +280,7 @@
                                     </span>
                                 </span>-->
 					</a>
-					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4484 - Copy.jpg" alt="" />
+					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4484 - Copyp.jpg" alt="" />
 				</div>
 			</div>
 			<!-- close gallery item -->
@@ -319,9 +319,9 @@
                                     </span>
                                 </span>-->
 					</a>
-					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4485 - Copy.jpg" alt="" />
+					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4485 - Copyp.jpg" alt="" />
 				</div>
-			</div>
+			</div>						<div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4487 - Copyp.jpg" alt="" />				</div>			</div>           <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4493 - Copyp.jpg" alt="" />				</div>			</div>            <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4497 - Copyp.jpg" alt="" />				</div>			</div>						<div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4498 - Copyp.jpg" alt="" />				</div>			</div>             			 <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4499p.jpg" alt="" />				</div>			</div>			 			  <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4500p.jpg" alt="" />				</div>			</div>						            <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4504p.jpg" alt="" />				</div>			</div>             <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4507p.jpg" alt="" />				</div>			</div>						 <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4513p.jpg" alt="" />				</div>			</div>						 <div class="item residential">				<div class="picframe">					<a class="simple-ajax-popup-align-top" href="project-details-youtube.html">						<!-- <span class="overlay">                                    <span class="pf_text">                                        <span class="project-name">Youtube Video</span>                                    </span>                                </span>-->					</a>					<img src="<?php echo base_url(); ?>assets/images/Residential/IMG_4515p.jpg" alt="" />				</div>			</div>
 			<!-- close gallery item -->
 			<div class="item office">
 				<div class="picframe">
